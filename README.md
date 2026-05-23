@@ -6,12 +6,12 @@ Pizza-searchbox is part of the [Pizza](https://pizza.rs/docs/) search engine pro
 
 # Features
 
-- Lightweight and fast, ~300KB after gzipped, powered by [INFINI Pizza for WebAssembly](https://github.com/infinilabs/pizza-wasm)
+- Lightweight and fast, ~300KB after gzipped, powered by [INFINI Pizza for WebAssembly](https://github.com/pizza-rs/pizza-wasm)
 - Support full featured query, compatible with [Lucene's Query Syntax](https://lucene.apache.org/core/2_9_4/queryparsersyntax.html),  eg: `foo bar -baz "qux"`,  `(title: concept OR title: index) OR (NOT collection)`, etc.
 
 # Screenshot
 
-![light](https://github.com/infinilabs/pizza-docsearch/blob/main/example/screenshot-2024-08-28-20.24.19.gif?raw=true)
+![light](https://github.com/pizza-rs/pizza-docsearch/blob/main/example/screenshot-2024-08-28-20.24.19.gif?raw=true)
 
 # Integrate with Hugo
 
